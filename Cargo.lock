@@ -7,6 +7,10 @@ name = "sadik-comms"
 version = "0.1.0"
 
 [[package]]
+name = "sadik-hashing"
+version = "0.1.0"
+
+[[package]]
 name = "sadik-members"
 version = "0.1.0"
 

@@ -15,5 +15,9 @@ name = "sadik-members"
 version = "0.1.0"
 
 [[package]]
+name = "sadik-node"
+version = "0.1.0"
+
+[[package]]
 name = "sadik-storage"
 version = "0.1.0"

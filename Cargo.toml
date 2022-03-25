@@ -4,5 +4,6 @@ members = [
 	"sadik-comms",
 	"sadik-members",
 	"sadik-hashing",
+	"sadik-node",
 	"sadik-storage",
 ]

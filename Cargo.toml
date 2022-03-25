@@ -1,6 +1,7 @@
 [workspace]
 
 members = [
+	"sadik-comms",
 	"sadik-members",
 	"sadik-storage",
 ]

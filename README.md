@@ -33,7 +33,7 @@ might be added in the future.
 	This also understands the concept of both virtual node and physical
 	node, and maps between them. Other components can limit to virtual
 	nodes.
-- Sakik-hashing: Wrappers around hashing algorithms to implement traits
+- Sadik-hashing: Wrappers around hashing algorithms to implement traits
 	needed by other components. Ideally implementing a new hash
 	algorithm should only require implementing the trait(s) in this
 	crate. The principle hash algorithm for Sadik will be [blake3][2].

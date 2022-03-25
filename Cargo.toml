@@ -6,4 +6,5 @@ members = [
 	"sadik-hashing",
 	"sadik-node",
 	"sadik-storage",
+	"sadik-metrics",
 ]
